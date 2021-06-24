@@ -1,0 +1,805 @@
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\tasks\c#\.NET CORE\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+C:\Users\0\Desktop\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+D:\حاسبات وتحكم آلي\رابعة حاسبات وتحكم\مشروع التخرج\الكود\20 6 2021 project before editing\YouDontKnowEgypt\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+C:\Users\elsha\Downloads\Compressed\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.Development.json
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\appsettings.json
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.exe
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.deps.json
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.json
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.runtimeconfig.dev.json
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ref\YouDontKnowEgypt.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\YouDontKnowEgypt.pdb
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Castle.Core.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Humanizer.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csprojAssemblyReference.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.GeneratedMSBuildEditorConfig.editorconfig
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfoInputs.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.AssemblyInfo.cs
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CoreCompileInputs.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cs
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.MvcApplicationPartsAssemblyInfo.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.Manifest.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\staticwebassets\YouDontKnowEgypt.StaticWebAssets.xml
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\scopedcss\bundle\YouDontKnowEgypt.styles.css
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.RazorTargetAssemblyInfo.cache
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.csproj.CopyComplete
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\ref\YouDontKnowEgypt.dll
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.pdb
+G:\tasks\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt_Adding_Pagination\YouDontKnowEgypt\obj\Debug\net5.0\YouDontKnowEgypt.genruntimeconfig.cache
