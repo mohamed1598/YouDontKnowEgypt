@@ -1,0 +1,34 @@
+<div class="height">
+    <div class="container">
+
+        <div class="headings">
+            <span class="hr"></span>
+            <h1>Approve</h1>
+            <span class="hr"></span>
+        </div>
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Created Date</th>
+                    <th> Description </th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody *ngIf = "listOfLocs">
+                <tr *ngFor="let item of  listOfLocs">
+                    <td > {{item.id}} </td>
+                    <td > {{item.name}} </td>
+                    <td > {{item.createDate}} </td>
+                    <td > {{item.description}} </td>
+                    <td > <button class="btn btn-success" (click)="approve(item.id)"> Approve </button> </td>
+                    <td > <button class="btn btn-danger" (click)="delete(item.id)"> Delete </button> </td>
+                </tr>  
+            </tbody>
+          </table>
+          
+    </div>
+    
+</div>

@@ -1,0 +1,5 @@
+<div class="card item-card card-block" (click)="goToCategory()">
+    <img *ngIf="imagePath!=defaultImg" [src]="imagePath" class="card-img-top" alt="...">
+    <img *ngIf="imagePath==defaultImg" src="assets/no image.jpg" class="card-img-top" alt="">
+    <h2 class="card-title">{{category.name}}</h2>
+</div>

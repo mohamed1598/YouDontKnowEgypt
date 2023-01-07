@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="headings">
+        <span class="hr"></span>
+        <h1>Categories</h1>
+        <span class="hr"></span>
+    </div>
+    <div class="row">
+                <div class="row">
+                    <app-category-card class="col-sm-4" *ngFor="let category of categories" [category]="category">
+                    </app-category-card>
+                </div>
+    </div>
+</div>

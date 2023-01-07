@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+
+@media (max-width:580px){
+    h3{
+        font-size: 15px;
+    }
+    p{
+        font-size: 10px;
+    }
+}

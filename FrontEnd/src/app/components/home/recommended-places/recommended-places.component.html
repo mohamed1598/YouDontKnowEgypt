@@ -1,0 +1,61 @@
+<div class="headings">
+    <span class="hr"></span>
+    <h1 class="text-center">Recommended Places</h1>
+    <span class="hr"></span>
+</div>   
+<div class="container">
+    <div style="height: 40px;"></div>
+      <ngb-carousel class="caros" [showNavigationArrows]="showNavigationArrows" [showNavigationIndicators]="showNavigationIndicators">
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngFor="let location of locations1" [location]="location"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngFor="let location of locations2" [location]="location"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngFor="let location of locations3" [location]="location"></app-card>
+            </div>
+        </ng-template>
+      </ngb-carousel>
+
+
+      <ngb-carousel class="caros2" [showNavigationArrows]="showNavigationArrows" [showNavigationIndicators]="showNavigationIndicators">
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngIf = "location1" [location]="location1"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngIf = "location2" [location]="location2"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngIf = "location3" [location]="location3"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngIf = "location4" [location]="location4"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngIf = "location5" [location]="location5"></app-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-card class="col-sm-6" *ngIf = "location6" [location]="location6"></app-card>
+            </div>
+        </ng-template>
+      </ngb-carousel>
+    
+</div>
+

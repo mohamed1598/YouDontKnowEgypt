@@ -1,0 +1,29 @@
+.height{
+    height: 81.6vh;
+}
+
+.hr {
+    display: block;
+    flex: 1;
+    margin: 0 30px;
+    height: 3px;
+    background: #D4D4D4;
+  }
+  .headings {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 20px 0;
+  }
+
+.input-group{
+      width: 50% !important;
+      margin: 20px 0;
+  }
+  textarea{
+    display: block !important;
+    width: 50%;
+    height: 200px;
+    resize: none;
+    margin-bottom: 20px;
+  }

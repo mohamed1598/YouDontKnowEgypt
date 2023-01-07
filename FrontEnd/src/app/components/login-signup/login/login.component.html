@@ -1,0 +1,59 @@
+<!-- <div class="height" [ngStyle]="{'height':height}">
+    <div class="form-container" [style.height.px]="height">
+        <form #f="ngForm">
+            <h2 class="text-center">Login to your Account </h2>
+            <p>Don't have Account? <a routerLink="/signup"> Sign up!</a></p>
+            <div class="form-group">
+                <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter email" name="email"
+                    required [(ngModel)]=email #mail="ngModel">
+                <div *ngIf="mail.touched && mail.invalid" class="alert alert-danger">
+                    <div *ngIf="mail.errors?.required"> Please Enter the Email </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" placeholder="Password" name="password" [(ngModel)]=password required
+                    #pass="ngModel" minlength="6">
+                <div *ngIf="pass.touched && pass.invalid" class="alert alert-danger">
+                    <div *ngIf="pass.errors?.required"> Please Enter the password </div>
+                    <div *ngIf="pass.errors?.minlength"> Please Enter 6 charcters at least </div>
+                </div>
+            </div>
+            <button type="submit" [disabled]="f.invalid" class="btn btn-primary form-control" (click)="onSubmit()">Login </button>
+            <div *ngIf="message" class="alert alert-danger">{{message}}</div>
+        </form>
+    </div>
+</div> -->
+
+
+
+
+<div class="height" [ngStyle]="{'height':height}">
+    <div class="form-container" [style.height.px]="height">
+        <form #f="ngForm">
+            <div class="d-flex justify-content-center ">
+                <img src="{{imgSrc}}" class="img-fluid" alt="">
+            </div>
+            <h2 class="text-center p-4">Login to your Account </h2>
+            <p class="pb-3 text-center"> Don't have Account ? <a routerLink="/signup"> Sign up!</a></p>
+            <div class="form-group">
+                <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter email"
+                    name="email" required [(ngModel)]=email #mail="ngModel">
+                <div *ngIf="mail.touched && mail.invalid" class="alert alert-danger">
+                    <div *ngIf="mail.errors?.required"> Please Enter the Email </div>
+                </div>
+            </div>
+            <div class="form-group pb-4 pt-3">
+                <input type="password" class="form-control" placeholder="Password" name="password" [(ngModel)]=password
+                    required #pass="ngModel" minlength="6">
+                <div *ngIf="pass.touched && pass.invalid" class="alert alert-danger">
+                    <div *ngIf="pass.errors?.required"> Please Enter the password </div>
+                    <div *ngIf="pass.errors?.minlength"> Please Enter 6 charcters at least </div>
+                </div>
+            </div>
+            <button type="submit" [disabled]="f.invalid" class="btn  form-control" (click)="onSubmit()">Login
+                <i class="fa fa-arrow-right"></i>
+            </button>
+            <div *ngIf="message" class="alert alert-danger">{{message}}</div>
+        </form>
+    </div>
+</div>

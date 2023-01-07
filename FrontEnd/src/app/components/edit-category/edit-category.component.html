@@ -1,0 +1,18 @@
+
+<div class="height">
+    
+<div class="container">
+    <div class="headings">
+        <span class="hr"></span>
+        <h1 class="text-center">Edit Category</h1>
+        <span class="hr"></span>
+    </div>
+
+    <div class="input-group input-group-lg" *ngIf = "value">
+        <input type="text" [(ngModel)]="value.name" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+      </div>
+
+    <button class="btn btn-danger" (click)="update()" > Update</button>
+
+</div>
+</div>

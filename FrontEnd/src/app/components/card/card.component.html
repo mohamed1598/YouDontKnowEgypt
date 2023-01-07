@@ -1,0 +1,9 @@
+<!-- <div class="card" *ngIf="location.title && location.imageUrls[0]"> -->
+  <div class="card" >
+  <img *ngIf="imagePath!=''" [src]="imagePath" class="card-img-top" >
+  <div class="card-body">
+    <h5 class="card-title">{{location.name}}</h5>
+    <p class="card-text">{{text}}</p>
+    <a class="btn btn-outline-primary" routerLink="/location" [queryParams]="{locationId:location.id}">Discover More</a>
+  </div>
+</div>

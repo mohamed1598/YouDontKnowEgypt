@@ -1,0 +1,46 @@
+img{
+    width: 100%;
+}
+.heading {
+    margin: 30px 0;
+    font-weight: bold;
+  }
+  .heading::after {
+    display: block;
+    content: " ";
+    border: 2px solid #cab4b4;
+    width: 50%;
+    margin: 40px auto;
+  }
+
+  .headings {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 20px 0;
+  }
+.hr {
+    display: block;
+    flex: 1;
+    margin: 0 30px;
+    height: 3px;
+    background: #D4D4D4;
+  }
+
+  @media (max-width: 572px){
+
+    h1{
+      font-size: 30px;
+    }
+  
+    .caros{
+      display: none !important;
+    }
+  }
+  @media (min-width: 572px){
+  
+  
+    .caros2{
+      display: none !important;
+    }
+  }

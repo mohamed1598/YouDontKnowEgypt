@@ -1,0 +1,29 @@
+<div class="container">
+    <div class="headings">
+        <h1>Locations</h1>
+        <span class="hr"></span>
+    </div>    
+    <div class="row">
+        
+        <app-card class="col-md-4" *ngFor="let location of SearchedLocations" [location]="location"></app-card>
+    </div>
+
+    <div class="headings">
+        <h1>Governorates</h1>
+        <span class="hr"></span>
+    </div>    
+    <div class="row">
+        
+        <app-governert-card class="col-md-4" *ngFor="let location of SearchedGovernrates" [governart]="location"></app-governert-card>
+    </div>
+
+    <div class="headings">
+        <h1>Category</h1>
+        <span class="hr"></span>
+    </div>    
+    <div class="row">
+        <app-category-card class="col-md-4" *ngFor="let category of SearchedCategories" [category]="category"></app-category-card>
+    </div>
+</div>
+
+

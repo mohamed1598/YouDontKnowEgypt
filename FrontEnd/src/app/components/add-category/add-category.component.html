@@ -1,0 +1,10 @@
+<div class="height">
+    <h2 class="text-center m-4" >Add category </h2>
+
+    <form action="post" class="text-center m-4">
+        <label for="cat-name" > Enter Category Name </label> <br> 
+        <input class="" id="cat-name"  [(ngModel)]="val"  [ngModelOptions]="{standalone: true}" > <br>
+        <button class="btn btn-primary " class=" btn btn-success mt-3"  (click)="addCategory()"> Add</button>
+    </form>
+
+</div>

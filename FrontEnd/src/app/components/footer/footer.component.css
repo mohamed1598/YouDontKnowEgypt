@@ -1,0 +1,20 @@
+footer{
+    background-color: #dce1e6;
+    color: black;
+    position: relative;
+    bottom: 0;
+}
+
+i{
+    margin: 0 3px;
+}
+
+.ilogo{
+    display: inline;
+}
+
+@media (max-width:453px){
+    .ilogo{
+        display: block;
+    }
+}

@@ -1,0 +1,44 @@
+.form-container form {
+  width: 40%;
+  margin: auto;
+}
+.img-fluid{
+  height: 100px !important;
+}
+.form-container form h2 {
+  color: #000;
+}
+button[type="submit"] {
+  opacity: 1;
+  background-color:  #C34A44!important;
+  color: #fff;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #1FA9CC !important;
+}
+p {
+  color: #000;
+
+}
+p a {
+  color: #d10606;
+  cursor: pointer;
+  font-weight: bold;
+}
+p a:hover {
+  color: #8d0101;
+}
+
+.fa-ankh{
+  background-color: #fff;
+  padding: 12px;
+  margin: 0 3px;
+  float: right;
+}
+@media (max-width:792px){
+  .form-container form{
+    width: 80%;
+  }
+}
+

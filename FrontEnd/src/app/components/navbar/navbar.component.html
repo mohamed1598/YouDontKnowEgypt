@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding: 15px;">
+
+
+            <a class="navbar-brand col" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">
+              <img class="img-fluid" src="../../../assets/162453073336455469 (2).png">
+            </a>
+
+  <button class="navbar-toggler" type="button" (click)="toggleNavbar()" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="wrapper" [class.show]="isOpen">
+    <ul class="navbar-nav ml-auto my-2 my-lg-0">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/addLocation" routerLinkActive="active" >Add Location</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/categories" routerLinkActive="active" >Category</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/governrates" routerLinkActive="active" >Governorates</a>
+      </li>
+        <div class="input-group inin">
+          <div class="form-outline">
+            <input type="search" class="form-control" placeholder="Search"  aria-label="Search" [(ngModel)]="name" [ngModelOptions]="{standalone: true}"/>
+          </div>
+          <button type="button" class="btn btn-outline-secondary" (click)="search()" routerLink="/search" [queryParams]="{searched:name}">
+            <i class="fa fa-search"></i>
+          </button>
+        </div>
+      <li class="nav-item last-li">
+        <a class="nav-link" routerLink="/login" routerLinkActive="active" *ngIf="!authService.loggedIn" >Login</a>
+      </li>
+      <li class="nav-item"> 
+        <div ngbDropdown *ngIf="authService.loggedIn" class="d-inline-block b2">
+          <a class="nav-link" id="dropdownBasic1" ngbDropdownToggle>{{authService.user.name}}</a>
+          <div class="dropdown-menu-right" ngbDropdownMenu aria-labelledby="dropdownBasic1">
+            <button ngbDropdownItem *ngIf="admin()"><a id="alink"   class="nav-link" routerLink="/admincatg" routerLinkActive="active"    style="color: black;" >Category Control</a></button>
+            <button ngbDropdownItem *ngIf="admin()"><a id="alink"   class="nav-link" routerLink="/admingov" routerLinkActive="active"    style="color: black;" >Governorates Control</a></button>
+            <button ngbDropdownItem *ngIf="admin()"><a id="alink"   class="nav-link" routerLink="/approve" routerLinkActive="active"    style="color: black;" >Approve Locations </a></button>
+            <button ngbDropdownItem *ngIf="admin()"><a id="alink"   class="nav-link" routerLink="/addhotel" routerLinkActive="active"    style="color: black;" > Add Hotel </a></button>
+
+            <div class="dropdown-divider" style="color: black !important;"></div>
+            <button ngbDropdownItem><a id="alink" class="nav-link" routerLink="/" routerLinkActive="active" *ngIf="authService.loggedIn" (click)="Logout()">Logout</a></button>
+          </div>
+        </div>
+    </li>
+    </ul>
+
+  </div>
+</nav>

@@ -1,0 +1,53 @@
+<div class="container" *ngIf="hotel">
+    <div class="container">
+        <div class="headings">
+            <span class="hr"></span>
+            <h1 class="text-center">{{hotel.name}}</h1>
+            <span class="hr"></span>
+        </div>
+
+        <div class="d-flex justify-content-center">
+          <button style="display: block;" *ngIf="authService.user.isAdmin" class="btn btn-danger" (click)="delete()">delete</button>
+        </div>
+
+        <div style="height: 20px;"></div>
+        <div class="card mb-3" style="padding:10px;">
+            <div class="row g-0">
+              <div class="col-lg-6">
+                <img class="img-fluid" *ngIf="hotelImages&&hotelImages[0]" [src]="imagesrc+hotelImages[0].imagePath" alt="">
+              </div>
+              <div class="col-lg-6">
+                <div class="card-body">
+                    <h2>Governorate</h2>
+                    <p>{{governerate}}</p>
+                    <hr>
+                    <h2>Description</h2>
+                    <p>{{hotel.description}}</p>
+                    <hr>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="headings">
+            <span class="hr"></span>
+            <h1>Gallery</h1>
+            <span class="hr"></span>
+        </div>
+            <div class="row lastrow">
+              <img (click)="myFunc(image)" *ngFor="let image of hotelImages" [src]="imagesrc+image.imagePath" alt="" class="col-md-4 img-fluid loop">
+            </div>
+            <div [ngClass]="{'show': show}" id="add" class="overlay-container  d-flex justify-content-center align-items-center">
+              <i (click)="hide()" id="wClose" class="fa  fa-3x fa-window-close"></i>
+              <div *ngIf="hotelImages" [ngStyle]="{'background-image': 'url('+imagesrc+hotelImages[count].imagePath+')'}" class="overlay-inner  d-flex align-items-center justify-content-between">
+                <i id="prev" class="fa fa-arrow-circle-left fa-3x" aria-hidden="true" (click)="goleft()"></i>
+                <i id="next" class="fa fa-arrow-circle-right fa-3x" aria-hidden="true" (click)="goRight()"></i>
+              </div>
+            </div>
+
+           
+
+           
+
+
+
+</div>

@@ -1,0 +1,48 @@
+<div class="height" [ngStyle]="{'height':height}">
+    <div class="form-container" [style.height.px]="height">
+        <!-- <form #f="ngForm" (ngSubmit)="onSubmit(f)"> -->
+        <form #f="ngForm">
+            <h2 class="text-center sg mt-5 mb-5"> <i class="fa fa-user-plus fa-lg pr-2"></i> Sign Up </h2>
+            <div class="form-group">
+                <input type="text" class="form-control" aria-describedby="emailHelp" placeholder="Username"
+                    name="username" required [(ngModel)]=user.name #username="ngModel">
+                <div *ngIf="username.touched && username.invalid" class="alert alert-danger">
+                    <div *ngIf="username.errors?.required"> Please Enter the username </div>
+                </div>
+            </div>
+            <div class="form-group">
+
+                <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter Email"
+                    name="email" required [(ngModel)]=user.email #mail="ngModel">
+                <div *ngIf="mail.touched && mail.invalid" class="alert alert-danger">
+                    <div *ngIf="mail.errors?.required"> Please Enter the Email </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" placeholder="Enter Password " name="password"
+                    [(ngModel)]=user.password required #pass="ngModel" minlength="6">
+                <div *ngIf="pass.touched && pass.invalid" class="alert alert-danger">
+                    <div *ngIf="pass.errors?.required"> Please Enter the password </div>
+                    <div *ngIf="pass.errors?.minlength"> Please Enter 6 charcters at least </div>
+
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" placeholder="Confirm Password " name="password2" ngModel
+                    required #pass2="ngModel" minlength="6">
+                <div *ngIf="pass2.touched && pass2.invalid" class="alert alert-danger">
+                    <div *ngIf="pass2.errors?.required"> Please Enter the password </div>
+                    <div *ngIf="pass2.errors?.minlength"> Please Enter 6 charcters at least </div>
+                </div>
+                <div class="alert alert-danger" *ngIf="pass.value !== pass2.value && pass2.touched && pass.touched">
+                    passwords don't match
+                </div>
+
+            </div>
+
+            <button type="submit" [disabled]="f.invalid || pass.value !== pass2.value"
+                class="btn btn-primary form-control mt-4" (click)="onSubmit()">Create My new Account
+            </button>
+        </form>
+    </div>
+</div>

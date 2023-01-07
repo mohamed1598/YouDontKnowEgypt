@@ -1,0 +1,40 @@
+
+/* careousel  */
+.carousel-control-prev,.carousel-control-next{
+  width: 3%;
+  
+}
+.carousel {
+  outline: 0;
+}
+
+.headings {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding: 20px 0;
+}
+.hr {
+  display: block;
+  flex: 1;
+  margin: 0 30px;
+  height: 3px;
+  background: #D4D4D4;
+}
+@media (max-width: 572px){
+
+  h1{
+    font-size: 30px;
+  }
+
+  .caros{
+    display: none !important;
+  }
+}
+@media (min-width: 572px){
+
+
+  .caros2{
+    display: none !important;
+  }
+}

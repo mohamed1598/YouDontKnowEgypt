@@ -1,0 +1,153 @@
+.col-md-6 img{
+    width: 550px;
+    margin-top: 60px;
+}
+.headings {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 20px 0;
+  }
+.hr {
+    display: block;
+    flex: 1;
+    margin: 0 30px;
+    height: 3px;
+    background: #D4D4D4;
+  }
+  h2{
+      margin-bottom: 20px;
+  }
+
+  .card-body{
+      margin-left: 50px;
+  }
+
+.lastrow{
+    padding: 50px 0;
+}
+
+.lastrow img{
+    height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    transition: all linear .4s;
+    filter: grayscale(1);
+
+
+}
+
+ .lastrow img:hover{
+    filter: grayscale(0);
+} 
+
+.comments{
+    padding: 50px;
+    margin-bottom: 20px;
+    border: 1px solid #D4D4D4;
+}
+.media img{
+    width: 30px;
+    height: 30px;
+}
+
+.comment{
+    margin: 20px;
+}
+.input-group{
+    width: 50%;
+}
+
+.pedit{
+    margin-left: 20px;
+}
+
+.scom{
+    border: 1px solid #D4D4D4;
+    padding: 20px;
+}
+
+.col-lg-6 img{
+    width: 800px !important;
+    margin-top: 50px;
+}
+
+.card-body{
+    margin-left: 0;
+}
+@media (max-width: 768px){
+
+    .input-group{
+        width: 100%;
+    }
+    .col-lg-6 img{
+        width: 800px !important;
+    }
+
+}
+
+@media (max-width:453px){
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    p{
+        font-size: 17px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .comment{
+        font-size: 15px;
+    }
+    .media img{
+        width: 25px;
+        height: 25px;
+    }
+}
+.overlay-container{
+
+position: fixed;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background-color: rgba(0, 0, 0, .7);
+display: none !important;
+z-index: 100;
+}
+
+.show{
+    display: flex !important;
+}
+
+.overlay-inner{
+    width: 80%;
+    height: 80%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+#wClose{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color:white;
+}
+#prev , #next{
+    color: white;
+}
+
+@media (max-width:540px){
+    #wClose{
+        top:150px;
+        font-size: 30px;
+    }
+    #prev , #next{
+        font-size: 30px;
+    }
+}

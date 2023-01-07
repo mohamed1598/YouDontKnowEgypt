@@ -1,0 +1,62 @@
+<div class="container-fluid">
+    <div class="container">
+        <div class="headings">
+            <span class="hr"></span>
+            <h1>Add New Hotel</h1>
+            <span class="hr"></span>
+        </div>
+            <div class="row">
+            <div class="col-md-6">
+                <form #f=ngForm>
+                    <div class="form-group">
+                        <label for="title">Name</label>
+                        <input type="text" [(ngModel)]="hotel.name" name="title" #title="ngModel" id="title" class="form-control" required minlength="4">
+                        <div class="alert alert-danger" *ngIf="title.touched && title.invalid">
+                            <div>Please enter the Name of Hotel</div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="title">Description</label>
+                        <textarea [(ngModel)]="hotel.description" name="description" rows="5" #description="ngModel" id="description" class="form-control" required minlength="50"></textarea>
+                        <div class="alert alert-danger" *ngIf="description.touched && description.invalid">
+                            <div>Please enter valid discription</div>
+                        </div>
+                    </div>
+    
+                   
+    
+                    <div class="form-group">
+                        <label for="governorat">Governorat</label>
+                        <select id="governorat" class="form-control" #governorat="ngModel"  name="governorat" (ngModelChange)="onChangeGav($event)" [(ngModel)]="selectedGov"
+                        required >
+                           <option *ngFor="let governorat of gav"  [value]="governorat.id">{{governorat.name}} </option>
+                        </select>
+                        <div class="alert alert-danger"  *ngIf="governorat.touched && governorat.invalid">
+                            <div>Please select a governorate</div>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-bottom:15px;">
+                        <div class="col-md-3">
+                          <input multiple type="file" #file placeholder="Choose file" (change)="uploadFile(file.files)" style="display:none;">
+                          <button type="button" class="btn btn-success" (click)="file.click()">Upload File</button>
+                        </div>
+                        <div class="col-md-4">
+                          <span class="upload" *ngIf="progress > 0">
+                            {{progress}}%
+                          </span>
+                          <span class="upload" *ngIf="message">
+                            {{message}}
+                          </span>
+                        </div>
+                      </div>
+                   
+                </form>
+                <button class="btn btn-success" [disabled]="f.invalid" (click)="create()"> Add Hotel </button>
+    
+            </div>
+    
+          
+    </div>
+    </div>
+
+</div>

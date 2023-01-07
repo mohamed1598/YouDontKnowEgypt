@@ -1,0 +1,45 @@
+.form-container form {
+  width: 40%;
+  padding: 30px;
+  margin:auto;
+}
+
+@media (max-width:792px){
+  .form-container form{
+    width: 80%;
+  }
+}
+
+.sg{
+  background-color: #3B8DBF;
+  border-bottom-left-radius: 40%;
+  color: #fff !important;
+  padding: 40px;
+
+}
+
+.form-container form h2 {
+  color: #60ADFF;
+  font-weight: bold;
+}
+button[type="submit"] {
+  background-color:#fff;
+  color: white;
+  cursor: pointer;
+  background-color: #0a438b !important;
+  border: none;
+}
+
+h2{
+  padding: 20px;
+}
+.alert-danger{
+  background-color: #60ADFF !important;
+  color: white !important;
+}
+
+@media (max-width:389px){
+  h2{
+    font-size: 20px;
+  }
+}

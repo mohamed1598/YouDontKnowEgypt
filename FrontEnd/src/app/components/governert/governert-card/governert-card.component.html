@@ -1,0 +1,7 @@
+<div class="card card-1" >
+    <img *ngIf="imagePath!=''" [src]="imagePath" class="card-img-top" >
+    <div class="card-body">
+      <h5 class="card-title">{{governart.name}}</h5>
+      <a class="btn btn-outline-primary" routerLink="/governrate" [queryParams]="{governrateId:governart.id}">Discover More</a>
+    </div>
+</div>

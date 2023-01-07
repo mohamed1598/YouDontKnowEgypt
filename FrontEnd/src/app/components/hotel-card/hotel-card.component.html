@@ -1,0 +1,8 @@
+<div class="card" >
+    <img *ngIf="imagePath!=''" [src]="imagePath" class="card-img-top" >
+    <div class="card-body">
+      <h5 class="card-title">{{hotel.name}}</h5>
+      <p class="card-text">{{text}}</p>
+      <a class="btn btn-outline-primary" routerLink="/hotel" [queryParams]="{hotelId:hotel.id}">Discover More</a>
+    </div>
+</div>

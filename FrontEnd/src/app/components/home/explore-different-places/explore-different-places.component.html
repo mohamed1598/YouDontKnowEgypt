@@ -1,0 +1,63 @@
+<div class="headings">
+    <span class="hr"></span>
+    <h1>Governorates</h1>
+    <span class="hr"></span>
+</div>   
+<div class="container">
+    <div style="height: 40px;"></div>
+      <ngb-carousel class="caros" [showNavigationArrows]="showNavigationArrows" [showNavigationIndicators]="showNavigationIndicators">
+        <ng-template ngbSlide>
+            <div class="row justify-content-around">
+                <app-governert-card class="col-sm-6" *ngFor="let location of Governrates1" [governart]="location"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-governert-card class="col-sm-6" *ngFor="let location of Governrates2" [governart]="location"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-governert-card class="col-sm-6" *ngFor="let location of Governrates3" [governart]="location"></app-governert-card>
+            </div>
+        </ng-template>
+      </ngb-carousel>
+    
+
+
+      <ngb-carousel class="caros2" [showNavigationArrows]="showNavigationArrows" [showNavigationIndicators]="showNavigationIndicators">
+        <ng-template ngbSlide>
+            <div class="row justify-content-around">
+                <app-governert-card class="col-sm-6" *ngIf = "Governrate1" [governart]="Governrate1"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-governert-card class="col-sm-6"  *ngIf = "Governrate2" [governart]="Governrate2"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-governert-card class="col-sm-6"  *ngIf = "Governrate3" [governart]="Governrate3"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row justify-content-around">
+                <app-governert-card class="col-sm-6" *ngIf = "Governrate4" [governart]="Governrate4"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-governert-card class="col-sm-6"  *ngIf = "Governrate5" [governart]="Governrate5"></app-governert-card>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="row">
+                <app-governert-card class="col-sm-6"  *ngIf = "Governrate6" [governart]="Governrate6"></app-governert-card>
+            </div>
+        </ng-template>
+      </ngb-carousel>
+
+</div>
+
+<br>

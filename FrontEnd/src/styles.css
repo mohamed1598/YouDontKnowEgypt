@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "font-awesome/css/font-awesome.min.css";
+@font-face {
+    font-family: "Roboto";
+    src: local("Roboto"), url(./assets/Roboto-Italic.ttf) format("truetype");
+}
+*{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+
+}
+*:not(.form-control){
+    text-transform: capitalize;
+}

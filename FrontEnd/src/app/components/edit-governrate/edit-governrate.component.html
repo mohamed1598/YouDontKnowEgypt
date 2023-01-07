@@ -1,0 +1,16 @@
+<div class="height">
+    <div class="container">
+        <div class="headings">
+            <span class="hr"></span>
+            <h1 class="text-center">Edit Governorate</h1>
+            <span class="hr"></span>
+        </div>
+        <div class="input-group input-group-lg">
+            <input type="text" [(ngModel)]="value.name" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+        </div>    
+        <div>
+            <textarea [(ngModel)]="value.description" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm"  id="floatingTextarea2" style="width: 50%;"></textarea>
+        </div>
+        <button class="btn btn-danger" (click)="update()" > Update</button>    
+    </div>
+</div>
